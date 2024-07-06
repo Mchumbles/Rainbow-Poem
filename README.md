@@ -1,5 +1,5 @@
 # Rainbow-Poem
-My Rainbow Poem
+My Rainbow and unicorn Poem
 
 
 Red
@@ -8,4 +8,5 @@ Blue
 Purple
 Yellow
 Pink
-These are the colours of the rainbow.
+unicorns
+These are the colours of the rainbow and unicorns
