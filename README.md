@@ -8,7 +8,7 @@ Green
 Blue
 Purple
 Yellow
-white
+White
 Pink
 These are the colours of the rainbow.
 
